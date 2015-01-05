@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:033728_0000_0FF922AF65D46708"/>
-            <pb facs="tcp:033728_0001_0FF91DCF19C1BC18"/>
+            <pb facs="unknown:033728_0000_0FF922AF65D46708"/>
+            <pb facs="unknown:033728_0001_0FF91DCF19C1BC18"/>
             <p>
                <figure>
                   <head>FRONTISPIECE.</head>
@@ -121,7 +121,7 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:033728_0002_0FF91DD767918440"/>
+            <pb facs="unknown:033728_0002_0FF91DD767918440"/>
             <p>
                <hi>FABLES</hi> IN MONOSYLLABLES BY Mrs. <hi>TEACHWELL,</hi> TO WHICH ARE ADDED <hi>MORALS</hi> IN DIALOGUES BETWEEN A MOTHER and CHILDREN.</p>
             <q>Si la nature donne au cerveau d'un enfant, cette ſoupleſſe qui le rend propre à recevoir toutes ſortes d'impreſſions; c'eſt pour que toutes les idées qu'il peut concevoir, &amp; qui lui ſont utiles, toutes celles qui ſe rapportent à ſon bonheur, &amp; doivent l'eclaire run jour ſur ſes devoirs, s'y tracent de bonne heure en caracteres ineffaçables.
@@ -136,7 +136,7 @@
          <text xml:lang="eng">
             <front>
                <div type="dedication">
-                  <pb n="v" facs="tcp:033728_0003_0FF91DD9D71CCB38"/>
+                  <pb n="v" facs="unknown:033728_0003_0FF91DD9D71CCB38"/>
                   <head>DEDICATION.</head>
                   <head>To Miſs M—.</head>
                   <opener>
@@ -145,7 +145,7 @@
                   <p>YOU are now at the ſame age as my boy was, when I wrote this book for him.</p>
                   <p>I hear that you take pains to learn what is fit for you, that you read well for your age, and do in all things as your dear mam-ma bids you.</p>
                   <p>
-                     <pb n="vi" facs="tcp:033728_0004_0FF91DDBA58F6AE0"/>
+                     <pb n="vi" facs="unknown:033728_0004_0FF91DDBA58F6AE0"/>
 If you be ſo good, we ſhall all love you.</p>
                   <p>If you go on to take pains to learn to read well, I will ſend you more books, and they ſhall have nice prints in them, ſuch as I know you will like. I love to pleaſe a good child.</p>
                   <p>I give you this as a mark of my love, and am,</p>
@@ -155,19 +155,19 @@ If you be ſo good, we ſhall all love you.</p>
                   </closer>
                </div>
                <div type="preface">
-                  <pb n="vii" facs="tcp:033728_0005_0FF91DDF3A792590"/>
+                  <pb n="vii" facs="unknown:033728_0005_0FF91DDF3A792590"/>
                   <head>PREFACE.</head>
                   <p>FABLES are generally pleaſing to children. Since they are ſo; were it not more adviſable to ſup<g ref="char:EOLhyphen"/>ply them with ſuch as afford <hi>leſſons</hi> ſuited to their age; than to waſte our time in debating whether or no Fable-writing be the moſt deſirable mode of inſtruc<g ref="char:EOLhyphen"/>tion?</p>
                   <p>IF I were aſked the queſtion, I ſhould anſwer in the negative.</p>
                   <p>BUT let us conſider that every book the little boy meets with at ſchool, will preſent to him Fables, which he will ſeize with avidity as novelties: Fa<g ref="char:EOLhyphen"/>bles, the morals of which are calculated to give an improper bias to his mind; had we not then better indulge him (whilſt in the nurſery) with a few that convey ſimple Morals adapted to the duties of child<g ref="char:EOLhyphen"/>hood? I think ſo; or I had not written theſe.</p>
                   <p>
                      <hi>Rouſſeau's</hi> remarks upon Fables, as making a part of the Library for Children,<note n="*" place="bottom">However miſtaken, however deteſtable, many notions of <hi>Rouſſeau's</hi> may be; there are uſeful maxims to be gleaned from his work reſpecting children. I wiſh the wheat were ſepa<g ref="char:EOLhyphen"/>rated from the chaff.</note> ſeem to me juſt: moſt
-<pb n="viii" facs="tcp:033728_0006_0FF91DE1A3356998"/>
+<pb n="viii" facs="unknown:033728_0006_0FF91DE1A3356998"/>
 of his objections militate ſtrongly againſt all the Fables I ever met with. If I did not hope that theſe are exempted from his charges I would not offer them to the public, ſtill leſs would I have preſented them to the dear little ones for whom they were written.</p>
                   <p>THERE muſt always remain one accuſation againſt Fables, namely, Falſehood; but ſurely it is eaſily explained to the children, that it is but their own uſual favourite ſport of, <hi>"making believe,"</hi> as they call feigning viſits, trading, <hi>&amp;c. &amp;c.</hi> with no deſign to deceive; yet, to guard againſt the ſhadow of evil, I have been explicit on that point in ſome of the dialogues; leſt the little books ſhould fall into the hands of any poor friendleſs child, and leſſen his regard to truth. Now I mention the dialogues, I confeſs that I am prepared for ridicule, ſhould any but a tender mother open my volumes.</p>
                   <p>I WEAVE <hi>nets</hi> for <hi>inſects;</hi> and if I ſuit my toils to my game am I to be derided? Who but ſtoops with ſatisfaction to lead an infant by the hand: Who but delights to adapt her ſteps to its ſhort and unequal paces? And ſhall we be leſs tender, leſs indulgent to the unformed mind?</p>
                   <p>A JUDICIOUS mother condeſcends to prattle with her children; to mingle in their ſports; thus ſhe
-<pb n="ix" facs="tcp:033728_0007_0FF91DE778A5ADB0"/>
+<pb n="ix" facs="unknown:033728_0007_0FF91DE778A5ADB0"/>
 infuſes ideas in their tender minds, whilſt ſhe en<g ref="char:EOLhyphen"/>gages their affections; yet without relinquiſhing parental authority.</p>
                   <p>No office is <hi>mean</hi> which concerns the health (<hi>cor<g ref="char:EOLhyphen"/>poreal</hi> or <hi>mental</hi>) of the riſing generation.</p>
                   <p>WHY then do I make apologies for my infantine dialogues!</p>
@@ -180,7 +180,7 @@ infuſes ideas in their tender minds, whilſt ſhe en<g ref="char:EOLhyphen"/>ga
                   <p>YET thoſe who are mothers muſt ſtrive to do it; and defy the deriſion of ſuch as—"never had a child."</p>
                </div>
                <div type="to_the_reader">
-                  <pb n="xi" facs="tcp:033728_0008_0FF91DE918930FB8"/>
+                  <pb n="xi" facs="unknown:033728_0008_0FF91DE918930FB8"/>
                   <head>TO MY LITTLE READERS.</head>
                   <p>You have been good, elſe your mam-ma would not have bought a new book for you.</p>
                   <p>I will tell you a tale. Maſ-ter <hi>Brother-ton</hi> was a good child.</p>
@@ -188,7 +188,7 @@ infuſes ideas in their tender minds, whilſt ſhe en<g ref="char:EOLhyphen"/>ga
                   <p>He ſpelt the words thus, b-r-e-a-d—bread, and ſo on.</p>
                   <p>He was apt, and fond of his book.</p>
                   <p>One day I met with ſome nice, clear, large print let-ters; and I cut them out,
-<pb n="xii" facs="tcp:033728_0009_0FF91DEE27C0BE18"/>
+<pb n="xii" facs="unknown:033728_0009_0FF91DEE27C0BE18"/>
 and ſtuck them on card; then laid them thus, c-a-t—cat, d-o-g—dog; and he ſaid the words at ſight.</p>
                   <p>Was not this nice?</p>
                   <p>Then it came in my mind to print with a pen for him; ſo I made tales of the dog, and the cat, and ſuch ſhort words—Should you not jump for joy?—He did.</p>
@@ -196,7 +196,7 @@ and ſtuck them on card; then laid them thus, c-a-t—cat, d-o-g—dog; and he �
                   <p>I wiſh I had met with ſuch a book three or four years ſince: I ſpent a great deal of time, for want of ſuch an one.</p>
                   <p>You all love a book, and are fond of prints.</p>
                   <p>
-                     <pb n="xiii" facs="tcp:033728_0010_0FF91DEFBB5AABF0"/>
+                     <pb n="xiii" facs="unknown:033728_0010_0FF91DEFBB5AABF0"/>
 One day I bought a book of Fa-bles full of prints; but I found it was all in <hi>verſe:</hi> it was ſad ſtuff: I could not bear the Fa-bles nor the Mo-rals.</p>
                   <p>
                      <hi>William</hi> (that was the ſweet boy's name) had a great mind to know what the Hen ſaid, and what the Ape did; yet he was ſo good, that he would not aſk the maids to read to him; (as he knew that I did not like the book) but would look at the prints, and talk of them, and not ſeem to wiſh to read.</p>
@@ -204,7 +204,7 @@ One day I bought a book of Fa-bles full of prints; but I found it was all in <hi
                   <p>I told him that I ſhould not have done this, if he had not been ſo good.</p>
                   <p>Gueſs how full of joy he was! I think I hear you ſay, "I wiſh I could ſee them!"</p>
                   <p>
-                     <pb n="xiv" facs="tcp:033728_0011_0FF91DF222AC4820"/>
+                     <pb n="xiv" facs="unknown:033728_0011_0FF91DF222AC4820"/>
 Now that is what I am in hopes you may.</p>
                   <p>"And will there be prints?"</p>
                   <p>That I can not tell: I think there will. But if there ſhould not; yet you will be glad to have the book; you will know that there would have been ſome, if it had been right.</p>
@@ -217,7 +217,7 @@ Now that is what I am in hopes you may.</p>
             </front>
             <body>
                <div type="fables">
-                  <pb n="15" facs="tcp:033728_0012_0FF91DF64249D890"/>
+                  <pb n="15" facs="unknown:033728_0012_0FF91DF64249D890"/>
                   <head>FABLES, &amp;c.</head>
                   <div type="dialogue">
                      <head>DIALOGUE.</head>
@@ -242,7 +242,7 @@ Now that is what I am in hopes you may.</p>
                         <p>Why then does this book talk of what they ſay?</p>
                      </sp>
                      <sp>
-                        <pb n="16" facs="tcp:033728_0013_0FF91DF8A5227458"/>
+                        <pb n="16" facs="unknown:033728_0013_0FF91DF8A5227458"/>
                         <speaker>BOY.</speaker>
                         <p>I do not know, Aunt.</p>
                      </sp>
@@ -268,7 +268,7 @@ Now that is what I am in hopes you may.</p>
                      </sp>
                   </div>
                   <div n="1" type="fable">
-                     <pb n="17" facs="tcp:033728_0014_0FF91DFA3AC3FDB8"/>
+                     <pb n="17" facs="unknown:033728_0014_0FF91DFA3AC3FDB8"/>
                      <head>FABLE I.</head>
                      <head>
                         <hi>The</hi> BOYS <hi>and</hi> FROG.</head>
@@ -278,7 +278,7 @@ Now that is what I am in hopes you may.</p>
                      <p>"You ſhould do as you would be done by.</p>
                      <p>"Would you like to have a ſtone thrown at you?</p>
                      <p>
-                        <pb n="18" facs="tcp:033728_0015_0FF91DFCA482E4B0"/>
+                        <pb n="18" facs="unknown:033728_0015_0FF91DFCA482E4B0"/>
 "Hurt no; one but be kind and good to all.</p>
                      <p>"Think what you do; we Frogs can feel as well as you Boys. We live in this pond, and do no harm: be good, and leave us here in peace."</p>
                      <div type="dialogue">
@@ -296,7 +296,7 @@ Now that is what I am in hopes you may.</p>
                            <p>No, my dear; but this man ſays for the Frog, what we may think the poor thing would ſay, if it could ſpeak.</p>
                         </sp>
                         <sp>
-                           <pb n="19" facs="tcp:033728_0016_0FF91DFFE8F14AF0"/>
+                           <pb n="19" facs="unknown:033728_0016_0FF91DFFE8F14AF0"/>
                            <speaker>BOY.</speaker>
                            <p>Why Aunt?</p>
                         </sp>
@@ -317,7 +317,7 @@ Now that is what I am in hopes you may.</p>
                            <p>O, yes! Aunt. I ſhould lend them my toys and books, and what is ſit for them to have; and I <hi>will</hi> do ſo.</p>
                         </sp>
                         <sp>
-                           <pb n="20" facs="tcp:033728_0017_0FF91E0183609FC0"/>
+                           <pb n="20" facs="unknown:033728_0017_0FF91E0183609FC0"/>
                            <speaker>LADY.</speaker>
                            <p>Good child!</p>
                         </sp>
@@ -336,7 +336,7 @@ Now that is what I am in hopes you may.</p>
                      </div>
                   </div>
                   <div n="2" type="fable">
-                     <pb n="21" facs="tcp:033728_0018_0FF91E0417DE0BE0"/>
+                     <pb n="21" facs="unknown:033728_0018_0FF91E0417DE0BE0"/>
                      <head>FABLE II.</head>
                      <head>
                         <hi>The</hi> ANT <hi>and</hi> FLY.</head>
@@ -357,7 +357,7 @@ Now that is what I am in hopes you may.</p>
                         <p>I do not love to work.</p>
                      </sp>
                      <sp>
-                        <pb n="22" facs="tcp:033728_0019_0FF91E06B9930B50"/>
+                        <pb n="22" facs="unknown:033728_0019_0FF91E06B9930B50"/>
                         <speaker>ANT.</speaker>
                         <p>We Ants do. We work hard to get food, and to make a fit place to lodge in.</p>
                      </sp>
@@ -372,7 +372,7 @@ Now that is what I am in hopes you may.</p>
                      </sp>
                   </div>
                   <div n="3" type="fable">
-                     <pb n="23" facs="tcp:033728_0020_0FF91E0A07F80618"/>
+                     <pb n="23" facs="unknown:033728_0020_0FF91E0A07F80618"/>
                      <head>FABLE III.</head>
                      <head>
                         <hi>The</hi> FAWN <hi>and</hi> VINE.</head>
@@ -384,7 +384,7 @@ Now that is what I am in hopes you may.</p>
                         <speaker>FABLE.</speaker>
                         <p>A MAN put a Fawn in a yard and ſaid to her.</p>
                         <p>
-                           <pb n="24" facs="tcp:033728_0021_0FF91E0B9BBA1948"/>
+                           <pb n="24" facs="unknown:033728_0021_0FF91E0B9BBA1948"/>
 "You may eat the graſs, and the weeds; but be ſure not to bite this vine."</p>
                      </sp>
                      <sp>
@@ -401,7 +401,7 @@ Now that is what I am in hopes you may.</p>
                         <p>O! I have got you!</p>
                      </sp>
                      <sp>
-                        <pb n="25" facs="tcp:033728_0022_0FF91E0E09F5AEC0"/>
+                        <pb n="25" facs="unknown:033728_0022_0FF91E0E09F5AEC0"/>
                         <speaker>FAWN.</speaker>
                         <p>Do not hurt me!—I was put in here.</p>
                      </sp>
@@ -415,7 +415,7 @@ Now that is what I am in hopes you may.</p>
                      </sp>
                   </div>
                   <div n="4" type="fable">
-                     <pb n="26" facs="tcp:033728_0023_0FF91E13885A4288"/>
+                     <pb n="26" facs="unknown:033728_0023_0FF91E13885A4288"/>
                      <head>FABLE IV.</head>
                      <head>
                         <hi>The</hi> APE <hi>and</hi> CAT.</head>
@@ -425,7 +425,7 @@ Now that is what I am in hopes you may.</p>
                      <p>But you are good; and do not do all that you ſee done, or wiſh to do; but wait for leave.</p>
                      <p>An Ape is like a child; but a <hi>good</hi> child is not like an Ape.</p>
                      <p>
-                        <pb n="27" facs="tcp:033728_0024_0FF91E1521036A80"/>
+                        <pb n="27" facs="unknown:033728_0024_0FF91E1521036A80"/>
 You love to pleaſe the dog; and love to ſee the cat glad; you run to the cook and beg for milk to give her; you would not hurt poor Puſs.</p>
                      <sp>
                         <speaker>FABLE.</speaker>
@@ -435,7 +435,7 @@ You love to pleaſe the dog; and love to ſee the cat glad; you run to the cook 
                         <p>Then he threw in his nuts, and ſtood to watch them.</p>
                         <p>Bounce! goes one: <hi>Pug</hi> gave a ſkip, and went to take it out; but he found it too hot for his hands.</p>
                         <p>
-                           <pb n="28" facs="tcp:033728_0025_0FF91E188D258638"/>
+                           <pb n="28" facs="unknown:033728_0025_0FF91E188D258638"/>
 "What can be done?" ſaid he, "I do not care to go in for the tongs.—O! there is the Cat!—<hi>Puſs!</hi> how do you do?—Will you eat a nut?</p>
                         <p>"I thank you," ſaid the Cat, as ſhe came to him.</p>
                         <p>"You muſt help me to get them out, if you pleaſe," ſaid the Ape; and took the poor Cat in his arms: in vain did ſhe cry out; but by good luck, the man of the houſe ſaw him, and ſaid:</p>
@@ -443,7 +443,7 @@ You love to pleaſe the dog; and love to ſee the cat glad; you run to the cook 
                         <p>
                            <hi>Pug</hi> took a look at the Man; then he caſt his eye at the nuts; then he gave a grin; ſtill he held the Cat.</p>
                         <p>
-                           <pb n="29" facs="tcp:033728_0026_0FF91E711DBE1ED8"/>
+                           <pb n="29" facs="unknown:033728_0026_0FF91E711DBE1ED8"/>
 Then the man ſaid to him:</p>
                         <p>"Let my Cat go—Spare her paws, and uſe your own; them I can well ſpare—but I beg you to ſet <hi>Puſs</hi> out of your arms now;—or I will come and drub you well with this ſtaff!"</p>
                      </sp>
@@ -454,12 +454,12 @@ Then the man ſaid to him:</p>
                         <hi>The</hi> FOX <hi>and the</hi> CROW.</head>
                      <figure/>
                      <p>A CROW had got a piece of fleſh: a Fox who ſaw it, knew he could not reach to get it from her, as ſhe ſat
-<pb n="30" facs="tcp:033728_0027_0FF91F6B0D9C40C0"/>
+<pb n="30" facs="unknown:033728_0027_0FF91F6B0D9C40C0"/>
 on a tree; and ſhe would be too wiſe to come down, as ſhe knew he was a thief. So he thought a while then ſaid:</p>
                      <p>"What a fine bird! plumes as black as jet, which ſhine ſo bright in the Sun that I can ſcarce look at them—Can you ſing?—If your voice"—He would have ſaid more, but the Crow was ſo vain as to ſet out a ſcream, and off ran the Fox with the meat which fell out of her beak.</p>
                   </div>
                   <div n="6" type="fable">
-                     <pb n="31" facs="tcp:033728_0028_0FF91F6F69C90198"/>
+                     <pb n="31" facs="unknown:033728_0028_0FF91F6F69C90198"/>
                      <head>FABLE VI.</head>
                      <head>
                         <hi>The</hi> DOG <hi>and the</hi> SHADOW.</head>
@@ -467,7 +467,7 @@ on a tree; and ſhe would be too wiſe to come down, as ſhe knew he was a thief
                         <figure/>
                      </p>
                      <p>A DOG had got a piece of fleſh,—as he went home he had to croſs a ſmall ſtream—the ſun ſhone bright, and he ſaw him-ſelf and the meat ſo plain, that he thought it was a dog with ſome more meat; and went to ſnatch at it; but dropt the piece he had in his jaws, and a pike ſwam off with it; whilſt he gave a great howl, and ſaid, "I am well ſerved, I ſtole
-<pb n="32" facs="tcp:033728_0029_0FF91F710B301ED8"/>
+<pb n="32" facs="unknown:033728_0029_0FF91F710B301ED8"/>
 the piece of fleſh, and ran off with it; and now that I was got near home to eat it, I thought to graſp at more, and ſo have loſt all."</p>
                   </div>
                   <div n="7" type="fable">
@@ -478,7 +478,7 @@ the piece of fleſh, and ran off with it; and now that I was got near home to ea
                         <figure/>
                      </p>
                      <p>AN old Cock took his ſon out to ſhew him how to get his food—"Look," ſaid he, "this is corn, fit for us to eat—ſo is <hi>this</hi>—and <hi>this</hi>—and <hi>that</hi> is a crumb,
-<pb n="33" facs="tcp:033728_0030_0FF91F7508647BB8"/>
+<pb n="33" facs="unknown:033728_0030_0FF91F7508647BB8"/>
 you may eat <hi>that.</hi>"The ſon ſaw a jew-el—"How fine this is!" ſaid he—"It is fine to look at," ſaid the old one, "but of no uſe to us, it is not good to eat."</p>
                      <sp>
                         <speaker>SON.</speaker>
@@ -501,7 +501,7 @@ you may eat <hi>that.</hi>"The ſon ſaw a jew-el—"How fine this is!" ſaid he
                         <p>It is hard, but ſee how nice it looks, if I turn it to the ſun.</p>
                      </sp>
                      <sp>
-                        <pb n="34" facs="tcp:033728_0031_0FF91F77948B2F90"/>
+                        <pb n="34" facs="unknown:033728_0031_0FF91F77948B2F90"/>
                         <speaker>OLD COCK.</speaker>
                         <p>I have ſeen it all the day, but I care not for it; do not peek at it.</p>
                      </sp>
@@ -511,7 +511,7 @@ you may eat <hi>that.</hi>"The ſon ſaw a jew-el—"How fine this is!" ſaid he
                      </sp>
                   </div>
                   <div n="8" type="fable">
-                     <pb n="35" facs="tcp:033728_0032_0FF91F7BC3D8FC40"/>
+                     <pb n="35" facs="unknown:033728_0032_0FF91F7BC3D8FC40"/>
                      <head>FABLE VIII.</head>
                      <head>
                         <hi>The</hi> OLD APE <hi>and her</hi> YOUNG CUBS.</head>
@@ -520,7 +520,7 @@ you may eat <hi>that.</hi>"The ſon ſaw a jew-el—"How fine this is!" ſaid he
                      </p>
                      <p>AN Ape who had two Cubs, ſaw a Dog. She ſaid to her-ſelf, "What can I do?—My Cubs can not run ſo faſt as the Dog; and if I take them both on my back, I can not get from him with them. I will take one at a time—So do <hi>you</hi> come now—<hi>you</hi> ſtay by this buſh till I come back for you."</p>
                      <sp>
-                        <pb n="36" facs="tcp:033728_0033_0FF8C5C921542E48"/>
+                        <pb n="36" facs="unknown:033728_0033_0FF8C5C921542E48"/>
                         <speaker>CUB.</speaker>
                         <p>I dare not ſtay.</p>
                      </sp>
@@ -541,7 +541,7 @@ you may eat <hi>that.</hi>"The ſon ſaw a jew-el—"How fine this is!" ſaid he
                         <p>I <hi>will</hi> go—</p>
                         <p>Then the Cub gave a great jump to get on her back; but miſt his hold, and fell down; and the Dog came and ate him up as he lay.</p>
                         <p>
-                           <pb n="37" facs="tcp:033728_0034_0FF91F8206FB3B40"/>
+                           <pb n="37" facs="unknown:033728_0034_0FF91F8206FB3B40"/>
 "Ah!" ſaid he, "if I had done as I was bid, I had been ſafe."</p>
                      </sp>
                   </div>
@@ -557,14 +557,14 @@ you may eat <hi>that.</hi>"The ſon ſaw a jew-el—"How fine this is!" ſaid he
                         <speaker>FABLE.</speaker>
                         <p>A CRAB ſaid to her ſons, "Come, we will walk; but do not go far from me, leſt you come to ſome harm."</p>
                         <p>
-                           <pb n="38" facs="tcp:033728_0035_0FF91F85EC4E1A20"/>
+                           <pb n="38" facs="unknown:033728_0035_0FF91F85EC4E1A20"/>
 "I will not," ſaid one.</p>
                         <p>"Well," ſaid one, "I do not know why we may not go as far as we like: I will not ſtay near: I can take care of my<g ref="char:EOLhyphen"/>ſelf, and ſo I will go—I do not know how far."</p>
                         <p>A Fox who was by, ſaid to her Cub, "You may be ſure to get that Crab with eaſe; for the ſon who will not mind what is ſaid to him, can not come to good; but muſt fall a prey to the firſt who tries to hurt him.—Go: he will make you a good meal."</p>
                      </sp>
                   </div>
                   <div n="10" type="fable">
-                     <pb n="39" facs="tcp:033728_0036_0FF91F89E6BD8AA0"/>
+                     <pb n="39" facs="unknown:033728_0036_0FF91F89E6BD8AA0"/>
                      <head>FABLE X.</head>
                      <head>
                         <hi>The</hi> DOG <hi>and</hi> BEES.</head>
@@ -573,7 +573,7 @@ you may eat <hi>that.</hi>"The ſon ſaw a jew-el—"How fine this is!" ſaid he
                      <p>"Friend! it will be beſt for you to go home—we will not let you rob us."</p>
                      <p>"I will do as I like," "ſaid the Dog; and he would liſt the hive up; and try to lick out of the combs.</p>
                      <p>
-                        <pb n="40" facs="tcp:033728_0037_0FF91F8DE8562FE8"/>
+                        <pb n="40" facs="unknown:033728_0037_0FF91F8DE8562FE8"/>
 Then the ſame Bee ſaid:</p>
                      <p>"Do not ſtrive to get our food; for your <hi>own</hi> ſake do not."</p>
                      <p>The Dog juſt got a taſte; and it was ſo ſweet and nice, that he was deaf to all that could be ſaid to him.</p>
@@ -585,7 +585,7 @@ Then the ſame Bee ſaid:</p>
                      <p>Then came out a throng of Bees and ſtung him to death.</p>
                   </div>
                   <div n="11" type="fable">
-                     <pb n="41" facs="tcp:033728_0038_0FF91F8FEE545A00"/>
+                     <pb n="41" facs="unknown:033728_0038_0FF91F8FEE545A00"/>
                      <head>FABLE XI.</head>
                      <head>
                         <hi>The</hi> HORSE <hi>and the</hi> STAG.</head>
@@ -594,7 +594,7 @@ Then the ſame Bee ſaid:</p>
                      <p>But a Horſe, by the help of a man, is more than a match for a Stag.</p>
                      <p>Thus may a child, be too much for a bad man.</p>
                      <p>
-                        <pb n="42" facs="tcp:033728_0039_0FF91F92D93D0F40"/>
+                        <pb n="42" facs="unknown:033728_0039_0FF91F92D93D0F40"/>
 A child, who minds all that is ſaid to him, by thoſe who are old, and who know what is beſt for him; <hi>that</hi> child, I ſay, is wiſe by the help of his friends.</p>
                      <p>Though a child can not judge: a child may do as he is bid, by thoſe who <hi>can.</hi>
                      </p>
@@ -604,7 +604,7 @@ A child, who minds all that is ſaid to him, by thoſe who are old, and who know
                      <p>For the man can not catch him to ſtrip him, as long as he ſtays where he is told to ſtay.</p>
                   </div>
                   <div n="12" type="fable">
-                     <pb n="43" facs="tcp:033728_0040_0FF91F96FA8990B0"/>
+                     <pb n="43" facs="unknown:033728_0040_0FF91F96FA8990B0"/>
                      <head>FABLE XII.</head>
                      <head>
                         <hi>The</hi> FOX <hi>and the</hi> HEN.</head>
@@ -616,7 +616,7 @@ A child, who minds all that is ſaid to him, by thoſe who are old, and who know
                         <p>Yes, I ſhall.</p>
                      </sp>
                      <sp>
-                        <pb n="44" facs="tcp:033728_0041_0FF91F98950D38A0"/>
+                        <pb n="44" facs="unknown:033728_0041_0FF91F98950D38A0"/>
                         <speaker>FOX.</speaker>
                         <p>And why?</p>
                      </sp>
@@ -637,7 +637,7 @@ A child, who minds all that is ſaid to him, by thoſe who are old, and who know
                         <p>What! not to take a walk with a friend?</p>
                      </sp>
                      <sp>
-                        <pb n="45" facs="tcp:033728_0042_0FF91F9B5E424EB0"/>
+                        <pb n="45" facs="unknown:033728_0042_0FF91F9B5E424EB0"/>
                         <speaker>HEN.</speaker>
                         <p>
                            <hi>He</hi> can not be a <hi>friend,</hi> who would have me do what I am bid <hi>not</hi> to do.</p>
@@ -651,7 +651,7 @@ A child, who minds all that is ſaid to him, by thoſe who are old, and who know
                      <p>ONE day a Goat ſaid to her Kid,</p>
                      <p>"My dear, I muſt leave you; but if you mind what I ſay, you will be ſafe."</p>
                      <p>
-                        <pb n="46" facs="tcp:033728_0043_0FF91FA0DEB47940"/>
+                        <pb n="46" facs="unknown:033728_0043_0FF91FA0DEB47940"/>
 "I will," ſaid the Kid. "Pray what am I to do?"</p>
                      <sp>
                         <speaker>GOAT.</speaker>
@@ -661,7 +661,7 @@ A child, who minds all that is ſaid to him, by thoſe who are old, and who know
                         <p>"My dear, make haſte! let me in! the wolf! the wolf!"</p>
                         <p>The Kid ran to the door, and took hold of the look—in a fright for the Goat—"But ſtay," "ſaid ſhe, "I am to look out firſt."</p>
                         <p>
-                           <pb n="47" facs="tcp:033728_0044_0FF91FA535EA5E40"/>
+                           <pb n="47" facs="unknown:033728_0044_0FF91FA535EA5E40"/>
 She did ſo—and what do you think ſhe ſaw?</p>
                         <p>A great wolf! who thought to cheat her, and get her to let him in—and then he would have made a meal of her.</p>
                         <p>The Kid was wife to do as ſhe was bid—elſe ſhe had ſeen the Goat no more.</p>
@@ -670,7 +670,7 @@ She did ſo—and what do you think ſhe ſaw?</p>
                      </sp>
                   </div>
                   <div n="14" type="fable">
-                     <pb n="48" facs="tcp:033728_0045_0FF91FA6F5774568"/>
+                     <pb n="48" facs="unknown:033728_0045_0FF91FA6F5774568"/>
                      <head>FABLE XIV.</head>
                      <head>
                         <hi>The</hi> LARKS.</head>
@@ -679,7 +679,7 @@ She did ſo—and what do you think ſhe ſaw?</p>
                      <p>When the corn was ripe, ſhe kept watch all day near the gate.</p>
                      <p>When ſhe leſt the neſt, ſhe ſaid, "When I come back, tell me all which you have heard, or ſeen whilſt I was gone."</p>
                      <p>
-                        <pb n="49" facs="tcp:033728_0046_0FF8C5CCF5608530"/>
+                        <pb n="49" facs="unknown:033728_0046_0FF8C5CCF5608530"/>
 And now you ſhall hear ſome talk they had in the neſt—young things love to prate.</p>
                      <sp>
                         <speaker>FIRST BIRD.</speaker>
@@ -702,7 +702,7 @@ And now you ſhall hear ſome talk they had in the neſt—young things love to 
                         <p>What will hurt us?</p>
                      </sp>
                      <sp>
-                        <pb n="50" facs="tcp:033728_0047_0FF91FACB9B1D238"/>
+                        <pb n="50" facs="unknown:033728_0047_0FF91FACB9B1D238"/>
                         <speaker>SECOND BIRD.</speaker>
                         <p>The men who come to mow the corn, may cut off our heads.</p>
                      </sp>
@@ -728,7 +728,7 @@ And now you ſhall hear ſome talk they had in the neſt—young things love to 
                         <p>I ſhall fly: what are my wings for?</p>
                      </sp>
                      <sp>
-                        <pb n="51" facs="tcp:033728_0048_0FF920D899586F10"/>
+                        <pb n="51" facs="unknown:033728_0048_0FF920D899586F10"/>
                         <speaker>SECOND BIRD.</speaker>
                         <p>I ſhall creep ſince I am <hi>bid</hi> to creep.</p>
                         <p>Up flew the pert young bird—and was ſhot.</p>
@@ -739,7 +739,7 @@ And now you ſhall hear ſome talk they had in the neſt—young things love to 
                         <p>The good young Lark flew up to the ſkies with her mo-ther.</p>
                      </sp>
                      <sp>
-                        <pb n="52" facs="tcp:033728_0049_0FF920DBC88F2980"/>
+                        <pb n="52" facs="unknown:033728_0049_0FF920DBC88F2980"/>
                         <speaker>CHILD.</speaker>
                         <p>I will not fear to ſtay where I am told I ſhall be ſafe.—And I will not do what I am told may hurt me. And I will not ſay, <hi>why</hi> am I bid to do ſo?—I ſhall think of theſe Larks.</p>
                      </sp>
@@ -751,7 +751,7 @@ And now you ſhall hear ſome talk they had in the neſt—young things love to 
                      <figure/>
                      <p>A FOX went out one day to ſeek for prey.</p>
                      <p>
-                        <pb n="53" facs="tcp:033728_0050_0FF920E2A3CC0448"/>
+                        <pb n="53" facs="unknown:033728_0050_0FF920E2A3CC0448"/>
 He ſaw ſome nice Grapes: they were ſo ripe, and black, that he could not go from the vine; but ſtood all day to look at them.</p>
                      <p>In the mean time, a fine fat hen ſlipt paſt.</p>
                      <p>A cock crept by at his rump; and got ſafe to his perch.</p>
@@ -761,7 +761,7 @@ He ſaw ſome nice Grapes: they were ſo ripe, and black, that he could not go f
                      <p>If he had been wiſe, he would not have ſtood to wiſh, and long in vain.</p>
                      <p>No—he would have gone from the vine, to ſeek for ſuch food as he could reach.</p>
                      <p>
-                        <pb n="54" facs="tcp:033728_0051_0FF920E5248E4E90"/>
+                        <pb n="54" facs="unknown:033728_0051_0FF920E5248E4E90"/>
 The Fox was a fool to feel ſuch a mind to what he could not have—Do you not think he was?</p>
                      <sp>
                         <speaker>CHILD.</speaker>
@@ -771,7 +771,7 @@ The Fox was a fool to feel ſuch a mind to what he could not have—Do you not t
                      </sp>
                   </div>
                   <div n="16" type="fable">
-                     <pb n="55" facs="tcp:033728_0052_0FF920ECB6DBF5E8"/>
+                     <pb n="55" facs="unknown:033728_0052_0FF920ECB6DBF5E8"/>
                      <head>FABLE XVI.</head>
                      <head>
                         <hi>The</hi> BOY <hi>and the</hi> WOLF.</head>
@@ -780,7 +780,7 @@ The Fox was a fool to feel ſuch a mind to what he could not have—Do you not t
                      <p>You know a Wolf will kill ſheep—aye—and eat them too.</p>
                      <p>The boy knew, that if he ſhould want help, the men who were near would come to him.</p>
                      <p>
-                        <pb n="56" facs="tcp:033728_0053_0FF920F5B76296C0"/>
+                        <pb n="56" facs="unknown:033728_0053_0FF920F5B76296C0"/>
 You will find that he was a bad Boy.</p>
                      <p>For he would call out,</p>
                      <p>"The Wolf! the Wolf! O me! the Wolf will eat up all my ſheep!"</p>
@@ -789,14 +789,14 @@ You will find that he was a bad Boy.</p>
                      <p>At laſt the Wolf <hi>did</hi> come—then the boy ran—</p>
                      <p>"O dear!—the Wolf is here—pray come and help me—help!—help!—or I ſhall loſe all my ſheep and lambs—there he goes—I can not keep him out of the fold."</p>
                      <p>
-                        <pb n="57" facs="tcp:033728_0054_0FF920F835879D00"/>
+                        <pb n="57" facs="unknown:033728_0054_0FF920F835879D00"/>
 But the men ſaid to him, "Go! go! we will not ſtir—we know you too well—it is all falſe—we know there is no Wolf—we will not be made ſuch fools now!"</p>
                      <p>So the Wolf took all the ſheep and lambs, one at a time; whilſt the Boy could get no help—No one thought he told the truth, as he <hi>had</hi> told lies.</p>
                      <p>In vain did he call, to thoſe whom he had made ſport with in ſuch a way:</p>
                      <p>"O! whilſt you live, tell truth!</p>
                   </div>
                   <div n="17" type="fable">
-                     <pb n="58" facs="tcp:033728_0055_0FF920FBA788C9E0"/>
+                     <pb n="58" facs="unknown:033728_0055_0FF920FBA788C9E0"/>
                      <head>FABLE XVII.</head>
                      <head>
                         <hi>The</hi> VAIN JAY.</head>
@@ -805,7 +805,7 @@ But the men ſaid to him, "Go! go! we will not ſtir—we know you too well—it
                      <p>"Ah!" ſaid ſhe, "here is a fine plume!—and here is one! and here!</p>
                      <p>"I will put them all on."</p>
                      <p>
-                        <pb n="59" facs="tcp:033728_0056_0FF8C5D1364E2538"/>
+                        <pb n="59" facs="unknown:033728_0056_0FF8C5D1364E2538"/>
 She did ſo—and it would have made you laugh, to ſee her ſtrut round the yard, with her long train hung at her rump.</p>
                      <p>At night the fowls came home to rooſt, one took a look—one ſaid; "Who is this? Who can this be?" ſaid one.</p>
                      <p>At laſt an old ſly fowl gave a pluck at the tail and off came a part.—</p>
@@ -819,7 +819,7 @@ She did ſo—and it would have made you laugh, to ſee her ſtrut round the yar
             </body>
             <back>
                <div type="table_of_contents">
-                  <pb n="60" facs="tcp:033728_0057_0FF9210180E5FB00"/>
+                  <pb n="60" facs="unknown:033728_0057_0FF9210180E5FB00"/>
                   <head>Fables in Monoſyllables.</head>
                   <head>INDEX.</head>
                   <list>
@@ -847,7 +847,7 @@ She did ſo—and it would have made you laugh, to ſee her ſtrut round the yar
          <text xml:lang="eng">
             <front>
                <div type="frontispiece">
-                  <pb facs="tcp:033728_0058_0FF8C5D2C8577F80"/>
+                  <pb facs="unknown:033728_0058_0FF8C5D2C8577F80"/>
                   <p>
                      <figure>
                         <head>FRONTISPIECE.</head>
@@ -855,7 +855,7 @@ She did ſo—and it would have made you laugh, to ſee her ſtrut round the yar
                   </p>
                </div>
                <div type="title_page">
-                  <pb facs="tcp:033728_0059_0FF9210944829A20"/>
+                  <pb facs="unknown:033728_0059_0FF9210944829A20"/>
                   <p>MORALS TO A SET OF <hi>FABLES,</hi> BY Mrs. <hi>TEACHWELL.</hi>
                   </p>
                   <p>THE MORALS IN DIALOGUES BETWEEN A <hi>MOTHER</hi> AND <hi>CHILDREN.</hi> IN TWO SETS.</p>
@@ -865,7 +865,7 @@ She did ſo—and it would have made you laugh, to ſee her ſtrut round the yar
                   <p>1798.</p>
                </div>
                <div type="dedication">
-                  <pb n="v" facs="tcp:033728_0060_0FF9210B1682BDB8"/>
+                  <pb n="v" facs="unknown:033728_0060_0FF9210B1682BDB8"/>
                   <head>DEDICATION.</head>
                   <head>TO Mrs. M—.</head>
                   <opener>
@@ -875,7 +875,7 @@ She did ſo—and it would have made you laugh, to ſee her ſtrut round the yar
                   <p>You will be aware, that I con<g ref="char:EOLhyphen"/>ſider the age of your dear little folk; and addreſs to <hi>you,</hi> what is ſuited to <hi>them.</hi>
                   </p>
                   <p>
-                     <pb n="vi" facs="tcp:033728_0061_0FF921118DF1D300"/>
+                     <pb n="vi" facs="unknown:033728_0061_0FF921118DF1D300"/>
 I have great pleaſure in the proſpect of my little volumes ſupplying them with ſome amuſe<g ref="char:EOLhyphen"/>ment; and affording you ſome aſſiſtance in the "delightful taſk" in which you are engaged.</p>
                   <p>May God proſper you in it! ſo that your children's children may prove a comfort and an ho<g ref="char:EOLhyphen"/>nour to you!</p>
                   <p>So wiſhes—ſo prays,</p>
@@ -885,7 +885,7 @@ I have great pleaſure in the proſpect of my little volumes ſupplying them wit
                   </closer>
                </div>
                <div type="preface">
-                  <pb n="vii" facs="tcp:033728_0062_0FF921168FE07BD0"/>
+                  <pb n="vii" facs="unknown:033728_0062_0FF921168FE07BD0"/>
                   <head>PREFACE.</head>
                   <p>I HAVE remarked—(but who has not <hi>felt?</hi>) that the pleaſure of a Fable, is damped to a child, by the tedious unintelligible Moral which is to follow.</p>
                   <p>A Moral, againſt which, perhaps, the complaint already urged, is much the ſmalleſt that might be alledged.</p>
@@ -895,7 +895,7 @@ I have great pleaſure in the proſpect of my little volumes ſupplying them wit
                   <p>Therefore, having written a few Fables from whence unexceptionable Morals may be drawn, I choſe to make the little folk themſelves ſeem to diſ<g ref="char:EOLhyphen"/>cover them—indeed, I took care they ſhould be ſuf<g ref="char:EOLhyphen"/>ficiently obvious for them to do it—and the frequent repetition appeared to me to be of uſe, as it would enable the child really to make the remarks which I put in his mouth, as well as inculcate more ſtrongly the notions which I wiſhed to infuſe.</p>
                </div>
                <div type="note">
-                  <pb n="viii" facs="tcp:033728_0063_0FF9211AAC95D568"/>
+                  <pb n="viii" facs="unknown:033728_0063_0FF9211AAC95D568"/>
                   <head>ADVERTISEMENT.</head>
                   <p>
                      <hi>WHEN Mrs</hi> Teach well <hi>wrote theſe Fables and Morals in the year 1779, ſhe wrote them for the uſe of her own family.</hi>
@@ -908,7 +908,7 @@ I have great pleaſure in the proſpect of my little volumes ſupplying them wit
                   </p>
                   <p>
                      <hi>She choſe to ſend him to his Dictionary for an explanation of words—thinking it an excellent ex<g ref="char:EOLhyphen"/>erciſe
-<pb facs="tcp:033728_0064_0FF9211D148D5270"/>
+<pb facs="unknown:033728_0064_0FF9211D148D5270"/>
 for him—Thoſe parents who want leiſure or patience to direct ſuch an exerciſe can explain the words; and ſo make trial of the little reader's memory.</hi>
                   </p>
                   <p>William <hi>was then three and a half:</hi> George <hi>five years of age.</hi>
@@ -917,7 +917,7 @@ for him—Thoſe parents who want leiſure or patience to direct ſuch an exerci
             </front>
             <body>
                <div type="morals">
-                  <pb n="11" facs="tcp:033728_0065_0FF921204C4A1A58"/>
+                  <pb n="11" facs="unknown:033728_0065_0FF921204C4A1A58"/>
                   <div n="1" type="set">
                      <head>WILLIAM's MORALS; OR, SET I.</head>
                      <stage>PAR-LOUR. Chil-dren em ploy-ed.</stage>
@@ -936,7 +936,7 @@ for him—Thoſe parents who want leiſure or patience to direct ſuch an exerci
                         <p>Can Apes ſpeak?</p>
                      </sp>
                      <sp>
-                        <pb n="12" facs="tcp:033728_0066_0FF921251BD90358"/>
+                        <pb n="12" facs="unknown:033728_0066_0FF921251BD90358"/>
                         <speaker>WIL-LI-AM.</speaker>
                         <p>No, mam-ma.</p>
                      </sp>
@@ -960,9 +960,9 @@ for him—Thoſe parents who want leiſure or patience to direct ſuch an exerci
                         <speaker>MAM-MA.</speaker>
                         <p>I will tell you.</p>
                         <p>Fa-bles are ſto-ries writ-ten to teach chil-dren what they ſhould do; by ſhew<g ref="char:EOLhyphen"/>ing them what may hap-pen to them
-<pb n="13" facs="tcp:033728_0067_0FF9212A0318ADC8"/>
+<pb n="13" facs="unknown:033728_0067_0FF9212A0318ADC8"/>
 if they do not act as they ought to do. If the ſto-ries were of <hi>Boys</hi> and <hi>Girls</hi> who had not done as they were bid, and had ſuf-fer-ed ſome harm, we do not call them Fa-bles. There is a ſto-ry of a boy who was bid not to go near a horſe, and he did go near him; and the horſe kick-ed him: that was <hi>not</hi> a <hi>Fa-ble,</hi> but a <hi>Tale.</hi> Now the ſto-ry of the good Kid, who o-bey-ed her mo<g ref="char:EOLhyphen"/>ther; and ſo was ſafe: and the o-ther of the naugh-ty Kid, who did not mind the or-ders which the Goat left, to keep her ſe-cure from the Wolf; but was ſo diſ-o-be-di-ent as to o-pen the door with-out look-ing out at the win-dow firſt; and as ſhe did ſo was ea-ten by the Wolf—they <hi>are Fa-bles;</hi> for they are not <hi>true;</hi> nor can they be true of <hi>Kids</hi>—but it is cer-tain, that <hi>Chil-dren,</hi> if they do not o-bey their pa-rents and elders, will come to harm for their diſ-o-be-di-ence. And theſe Fa-bles are
-<pb n="14" facs="tcp:033728_0068_0FF9212BAE1A94F0"/>
+<pb n="14" facs="unknown:033728_0068_0FF9212BAE1A94F0"/>
 written to ſhew them what miſ-chief of-ten happens to thoſe who do diſ-o-bey or-ders.</p>
                      </sp>
                      <sp>
@@ -980,7 +980,7 @@ written to ſhew them what miſ-chief of-ten happens to thoſe who do diſ-o-bey
                      <sp>
                         <speaker>MAM-MA.</speaker>
                         <p>Then look in your book of Fa-bles—where is the index?—ſee the ninth Fa-ble
-<pb n="15" facs="tcp:033728_0069_0FF9212FB8DA65C8"/>
+<pb n="15" facs="unknown:033728_0069_0FF9212FB8DA65C8"/>
 page the thirty-ſeventh. "Do what thoſe who are old tell you is beſt for you to do."</p>
                      </sp>
                      <sp>
@@ -990,7 +990,7 @@ page the thirty-ſeventh. "Do what thoſe who are old tell you is beſt for you 
 ea-ſy to get <hi>that</hi> young one, who was ſo ſil-ly as to think him-ſelf as wiſe as his pa-rent.</p>
                      </sp>
                      <sp>
-                        <pb n="16" facs="tcp:033728_0070_0FF92137FA5A1470"/>
+                        <pb n="16" facs="unknown:033728_0070_0FF92137FA5A1470"/>
                         <speaker>MAM-MA.</speaker>
                         <p>Here is the Fawn who <gap reason="illegible" resp="#AELD" extent="1 letter">
                               <desc>•</desc>
@@ -1002,7 +1002,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                         </p>
                      </sp>
                      <sp>
-                        <pb n="17" facs="tcp:033728_0071_0FF9213E0B305D58"/>
+                        <pb n="17" facs="unknown:033728_0071_0FF9213E0B305D58"/>
                         <speaker>WIL-LI-AM.</speaker>
                         <p>Yes, mam-ma; and I ſaid, No, I thank you, I may not eat but-ter".</p>
                      </sp>
@@ -1022,7 +1022,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                         <figure/>
                      </p>
                      <sp>
-                        <pb n="18" facs="tcp:033728_0072_0FF92146FB722F78"/>
+                        <pb n="18" facs="unknown:033728_0072_0FF92146FB722F78"/>
                         <speaker>MAM-MA.</speaker>
                         <p>Yes; and it kill-ed him. He ſhould have be-liev-ed his fa-ther.</p>
                      </sp>
@@ -1038,7 +1038,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                         <p>Why did the Fox try to per-ſuade the Hen to come out of the coop?</p>
                      </sp>
                      <sp>
-                        <pb n="19" facs="tcp:033728_0073_0FF9214A82F8B630"/>
+                        <pb n="19" facs="unknown:033728_0073_0FF9214A82F8B630"/>
                         <speaker>MAM-MA.</speaker>
                         <p>That he might eat her—ſhe was wiſe to keep where ſhe was bid.</p>
                      </sp>
@@ -1054,7 +1054,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                         <p>Be-cauſe a child who does as he is bid in all things, can not be a naugh-ty child. <hi>O-be-di-ence</hi> is the du-ty of a child.</p>
                      </sp>
                      <sp>
-                        <pb n="20" facs="tcp:033728_0074_0FF92150EDD50C28"/>
+                        <pb n="20" facs="unknown:033728_0074_0FF92150EDD50C28"/>
                         <speaker>WIL-LI-AM.</speaker>
                         <p>What is ad-viſ-ing, pray mam-ma?</p>
                      </sp>
@@ -1070,7 +1070,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                         <figure/>
                      </p>
                      <sp>
-                        <pb n="21" facs="tcp:033728_0075_0FF921AA30759038"/>
+                        <pb n="21" facs="unknown:033728_0075_0FF921AA30759038"/>
                         <speaker>MAM-MA.</speaker>
                         <p>Ob-ſti-nate; ſo he de-ſerv-ed to die.</p>
                      </sp>
@@ -1090,7 +1090,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                         <p>What ſhould I learn from the Dog and the Sha-dow?</p>
                      </sp>
                      <p>
-                        <pb n="22" facs="tcp:033728_0076_0FF921E577462D50"/>
+                        <pb n="22" facs="unknown:033728_0076_0FF921E577462D50"/>
                         <figure/>
                      </p>
                      <sp>
@@ -1106,7 +1106,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                         <p>That Fa-ble is to teach you, that it is bet-ter to work, than to do no-thing but play.</p>
                      </sp>
                      <p>
-                        <pb n="23" facs="tcp:033728_0077_0FF92229B7483CA8"/>
+                        <pb n="23" facs="unknown:033728_0077_0FF92229B7483CA8"/>
                         <figure/>
                      </p>
                      <sp>
@@ -1119,7 +1119,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                      </sp>
                   </div>
                   <div n="2" type="set">
-                     <pb n="24" facs="tcp:033728_0078_0FF9228032F695C8"/>
+                     <pb n="24" facs="unknown:033728_0078_0FF9228032F695C8"/>
                      <head>GEORGE's MORALS; OR SET II.</head>
                      <stage>PAR-LOUR. Chil-dren em-ploy-ed</stage>
                      <sp>
@@ -1141,7 +1141,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                         <p>Yes, mam-ma.</p>
                      </sp>
                      <sp>
-                        <pb n="25" facs="tcp:033728_0079_0FF92282A15595A8"/>
+                        <pb n="25" facs="unknown:033728_0079_0FF92282A15595A8"/>
                         <speaker>MAM-MA.</speaker>
                         <p>I want to try if you can find them—What do you learn from the Horſe and Stag?</p>
                      </sp>
@@ -1161,7 +1161,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                         <p>And what from the Ant and Fly?</p>
                      </sp>
                      <sp>
-                        <pb n="26" facs="tcp:033728_0080_0FF92286DC9732D8"/>
+                        <pb n="26" facs="unknown:033728_0080_0FF92286DC9732D8"/>
                         <speaker>GEORGE.</speaker>
                         <p>That in-duſ-try is bet-ter than i-dle-neſs.—<hi>So-lo-mon</hi> com-mends the Ant.</p>
                      </sp>
@@ -1179,7 +1179,7 @@ do as they have been bid-den, though they are out of ſight? for it is as bad to
                      <sp>
                         <speaker>GEORGE.</speaker>
                         <p>The good young Crab, who was wil<g ref="char:EOLhyphen"/>ling to ſub-mit to the re-ſtric-ti-ons
-<pb n="27" facs="tcp:033728_0081_0FF922917639E1B8"/>
+<pb n="27" facs="unknown:033728_0081_0FF922917639E1B8"/>
                            <figure/>
 which his mo-ther ſhould pleaſe to lay on him, would find ſe-cu-ri-ty in his o-be-di-ence—but the con-ceit-ed young one, who was ſo con-fi-dent of his own wiſ-dom.—Mam-ma! <hi>did</hi> the Fox get him?</p>
                      </sp>
@@ -1187,7 +1187,7 @@ which his mo-ther ſhould pleaſe to lay on him, would find ſe-cu-ri-ty in his 
                         <figure/>
                      </p>
                      <sp>
-                        <pb n="28" facs="tcp:033728_0082_0FF92294DE440818"/>
+                        <pb n="28" facs="unknown:033728_0082_0FF92294DE440818"/>
                         <speaker>MAM-MA.</speaker>
                         <p>I ſhould not doubt but he did—Self-ſuf-fi-ci-en-cy in a child muſt lead to ru-in.</p>
                      </sp>
@@ -1199,7 +1199,7 @@ which his mo-ther ſhould pleaſe to lay on him, would find ſe-cu-ri-ty in his 
                         <speaker>MAM-MA.</speaker>
                         <p>The Ape thought to ex-poſe the poor Cat to an in-con-ve-ni-ence for his ac-com-mo-da-ti-on
 <figure/>
-                           <pb n="29" facs="tcp:033728_0083_0FF9229B39A88F20"/>
+                           <pb n="29" facs="unknown:033728_0083_0FF9229B39A88F20"/>
 —and you ſee the man (form-ing a ju-di-ci-ous judg-ment be<g ref="char:EOLhyphen"/>tween the real ſer-vi-ces of that uſe-ful a-ni-mal the Cat, and the mere laugh-a-ble pranks of the Ape) in-ter-po-ſes, to ſave the more va-lu-a-ble part of his fa-mi-ly from in-ju-ry; with a threat of ſevere pu-niſh-ment to the Ape, if he did not de-ſiſt from at-tempt-ing ſuch an in-ſult on a creature of ſu-pe-ri-or me-rit, though en-du-ed with leſs ſtrength than him-ſelf.</p>
                      </sp>
                      <sp>
@@ -1211,7 +1211,7 @@ which his mo-ther ſhould pleaſe to lay on him, would find ſe-cu-ri-ty in his 
                         <p>How ve-ry fool-iſh was the young Ape who would not be-lieve her-ſelf ſafe where her mo-ther would have put her!</p>
                      </sp>
                      <sp>
-                        <pb n="30" facs="tcp:033728_0084_0FF9229CD49902A0"/>
+                        <pb n="30" facs="unknown:033728_0084_0FF9229CD49902A0"/>
                         <speaker>MAM-MA.</speaker>
                         <p>How ſtub-born, to per-ſiſt in ac-com-pa-ny-ing her con-tra-ry to her in-junc-ti-on! I would have you ne-ver ſee the print, but you ſhould con-ſider with thank-ful-neſs, the con-ſtant watch-ful care of a pa-rent—the con-fi-dence, and im-pli-cit o-be-di-ence due from a child, as the on-ly mark of gra-ti-tude in his pow-er.</p>
                      </sp>
@@ -1222,7 +1222,7 @@ which his mo-ther ſhould pleaſe to lay on him, would find ſe-cu-ri-ty in his 
                      <sp>
                         <speaker>MAM-MA.</speaker>
                         <p>You think right-ly, my dear: That diſ-po-ſi-ti-on in a child <hi>is</hi> an in-ex-preſ-ſible com-fort to an af-fec-ti-on-ate pa-rent; be-cauſe it is the beſt ear-neſt of fu-ture good con-duct. We have
-<pb n="31" facs="tcp:033728_0085_0FF922A295A3B028"/>
+<pb n="31" facs="unknown:033728_0085_0FF922A295A3B028"/>
 great rea-ſon to hope, that an ob-ſer-vant gen-tle boy will prove a wor-thy man. I am ve-ry much pleaſ-ed to find you both ſo well verſ-ed in the Mo-rals of your Fa-bles—now a-muſe your-ſelves.</p>
                      </sp>
                      <sp>
@@ -1237,7 +1237,7 @@ great rea-ſon to hope, that an ob-ſer-vant gen-tle boy will prove a wor-thy ma
                         <figure/>
                      </p>
                      <sp>
-                        <pb n="32" facs="tcp:033728_0086_0FF922A428199C18"/>
+                        <pb n="32" facs="unknown:033728_0086_0FF922A428199C18"/>
                         <speaker>GEORGE.</speaker>
                         <p>No, he is fal-len off his mo-ther's back, and has hurt him-ſelf ſo much that he can not ſtir; and that Dog is come to eat him up.</p>
                      </sp>
@@ -1262,7 +1262,7 @@ great rea-ſon to hope, that an ob-ſer-vant gen-tle boy will prove a wor-thy ma
                         <p>I thank you.</p>
                      </sp>
                      <sp>
-                        <pb n="33" facs="tcp:033728_0087_0FF922A5B9BC78C8"/>
+                        <pb n="33" facs="unknown:033728_0087_0FF922A5B9BC78C8"/>
                         <speaker>WIL-LI-AM.</speaker>
                         <p>Then I can read in <hi>George's</hi> book. I will ſeek for that Fa-ble, which I have been read-ing in my own, in ſhort words.—The Pea-cocks and the Jay.</p>
                      </sp>
@@ -1276,7 +1276,7 @@ great rea-ſon to hope, that an ob-ſer-vant gen-tle boy will prove a wor-thy ma
                      <sp>
                         <speaker>MAM-MA.</speaker>
                         <p>It it a leſ-ſon to teach you to a-void the ſil-ly va-ni-ty of aſ-ſum-ing what you have no juſt claim to; at the pe-ril
-<pb n="34" facs="tcp:033728_0088_0FF91DCCB699E7C0"/>
+<pb n="34" facs="unknown:033728_0088_0FF91DCCB699E7C0"/>
 of be-ing de-priv-ed of what is re-al<g ref="char:EOLhyphen"/>ly your own; as this ſil-ly bird loſt her own fea-thers with thoſe which ſhe had bor-row-ed.</p>
                      </sp>
                      <sp>
@@ -1286,14 +1286,14 @@ of be-ing de-priv-ed of what is re-al<g ref="char:EOLhyphen"/>ly your own; as th
                         <p>The Hen was wiſe—how can a child be wiſe?—you told me that to be wiſe, was to judge right-ly—can a child judge right-ly?</p>
                      </sp>
                      <sp>
-                        <pb n="35" facs="tcp:033728_0089_0FF923A614AD9440"/>
+                        <pb n="35" facs="unknown:033728_0089_0FF923A614AD9440"/>
                         <speaker>MAM-MA.</speaker>
                         <p>My dear boy! the wiſ-dom of a child con-ſiſts in ſubmit-ting to be di-rect-ed by his pa-rents.</p>
                      </sp>
                      <sp>
                         <speaker>MAM-MA.</speaker>
                         <p>The Hen was ſome-what in the ſi-tu<g ref="char:EOLhyphen"/>a-ti-on of a Boy at ſchool, urg-ed by a wick-ed ſchool-fel-low to break the rules, or ſtray be-yond the bounds which are ap-point-ed. Much diſ-cre-ti-on, in judg-ing of what is pro-per, is not to be ex-pect-ed from a lit-tle boy; but he may have the mo-deſ-ty of this Hen, to keep him from pre-tend-ing to judge—he may ſhew his pru-dence, by o-bey-ing the in-junc-ti-ons of his ſu-pe-ri-ors in age and wiſ-dom; with a full aſ-ſu-rance that they are found<g ref="char:EOLhyphen"/>ed on rea-ſon, though he is not able to ac-ccount ex-act-ly for them. He may con-clude (as the Hen in the Fa<g ref="char:EOLhyphen"/>ble
-<pb n="36" facs="tcp:033728_0090_0FF923A95262A658"/>
+<pb n="36" facs="unknown:033728_0090_0FF923A95262A658"/>
 does) that he can not be his friend who would per-ſuade him to break any law of the place whi-ther his pa-rents have ſent him; and ſo de-cline liſ-ten-ing to his per-ſua-ſi-ons.—<hi>Jenny!</hi> do you at-tend as you ſit at your work?</p>
                      </sp>
                      <sp>
@@ -1319,7 +1319,7 @@ does) that he can not be his friend who would per-ſuade him to break any law of
                         <p>I loſe no-thing.</p>
                      </sp>
                      <sp>
-                        <pb n="37" facs="tcp:033728_0091_0FF923B163CE2EF8"/>
+                        <pb n="37" facs="unknown:033728_0091_0FF923B163CE2EF8"/>
                         <speaker>MAM-MA.</speaker>
                         <p>O-be-di-ence is what I have been en-dea-vour-ing to in-cul-cate; or to im<g ref="char:EOLhyphen"/>preſs on your minds by fre-quent ad-mo-ni-ti-ons. O-BE-DI-ENCE is the whole of our du-ty. God him-ſelf ſays in the Ho-ly Scrip-tures, "Chil<g ref="char:EOLhyphen"/>dren o-bey your pa-rents." When you are ar-riv-ed at years of diſ-cre-ti-on, you be-come ſub-ject to the laws of the na-ti-on—the ſame God or-dains that we ſhould "be ſub-ject to high<g ref="char:EOLhyphen"/>er pow-ers." And ul-ti-mate-ly in o<g ref="char:EOLhyphen"/>bey-ing thoſe a-bove us we</p>
                         <p>
@@ -1335,7 +1335,7 @@ does) that he can not be his friend who would per-ſuade him to break any law of
       </group>
       <back>
          <div type="table_of_contents">
-            <pb n="38" facs="tcp:033728_0092_0FF923B639DF9128"/>
+            <pb n="38" facs="unknown:033728_0092_0FF923B639DF9128"/>
             <head>MORALS to FABLES; BY Mrs. TEACHWELL.</head>
             <head>INDEX.</head>
             <list>
@@ -1351,7 +1351,7 @@ does) that he can not be his friend who would per-ſuade him to break any law of
                <item>Ant <hi>and</hi> Fly, 23</item>
             </list>
             <list>
-               <pb n="39" facs="tcp:033728_0093_0FF923B977DAEF58"/>
+               <pb n="39" facs="unknown:033728_0093_0FF923B977DAEF58"/>
                <head>GEORGE's MORALS.</head>
                <item>Horſe <hi>and</hi> Stag, 25</item>
                <item>Ant <hi>and</hi> Fly, 26</item>
